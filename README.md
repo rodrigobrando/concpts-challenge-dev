@@ -157,4 +157,4 @@ Deve retornar se as quantidades de um produto está disponível no estoque. Deve
 
 - Criar um repositório no GitHub contendo instruções de como executar a aplicação.
 - Compartilhar o repositório com os usuários [@RodrigoBrando](https://github.com/rodrigobrando) e [@DiegoSouza7](https://github.com/DiegoSouza7)
-- Caso tenha alguma dúvida só chamar
+- Caso tenha alguma dúvida só chamar no discord Rodrigo Brando#4516 ou Diego Souza#9483
