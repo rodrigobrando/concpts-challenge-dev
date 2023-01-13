@@ -14,6 +14,7 @@ Em uma aplicação de e-commerce é comum existir sistemas de checkout (carrinho
 6. Modelagem de Banco de Dados.
 7. Utilizar Adonis5 JS
 8. Utilizar MySql
+9. Design responsivo
 
 ## **Escopo**
 
@@ -151,7 +152,9 @@ Deve retornar se as quantidades de um produto está disponível no estoque. Deve
 1. Chakra UI.
 2. React-Query.
 3. Implementar alguma solução de cache para disponibilidade estoque.
-
+4. React hook form
+5. Yup
+6. Axios
 
 ### Como submeter
 
