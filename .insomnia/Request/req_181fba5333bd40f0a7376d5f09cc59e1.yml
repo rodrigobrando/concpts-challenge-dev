@@ -1,0 +1,23 @@
+_id: req_181fba5333bd40f0a7376d5f09cc59e1
+type: Request
+parentId: wrk_72073bb2071340cfbe215d65093fade5
+modified: 1692735542023
+created: 1692735526945
+url: https://github.com
+name: Get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.5
+authentication: {}
+metaSortKey: -1692735526945
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
